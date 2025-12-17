@@ -1,0 +1,2 @@
+# jVaEndcYke
+本系统是一款基于B/S架构的仓库管理系统，主要用于实现客户与仓库之间的信息管理。核心功能包括：物资存储管理、库存动态监控、数据统计分析等。通过整合SpringBoot、SpringSecurity、MybatisPlius、Redis及Websocket技术，确保系统高效、稳定运行，同时采用Vue、Elementui、Echarts等前端技术，提供直观易用的操作界面。系统有效解决了仓库管理中信息不对称、效率低下等问题，提升了仓库管理的智能化水平。
